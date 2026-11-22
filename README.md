@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amrita Nambiar
 
-### Aspiring Product Manager · AI & data background · I build products that grow, using strategy, research, and a dash of ML
+### I build products that grow, using strategy, research, and a dash of ML
 
 ---
 
